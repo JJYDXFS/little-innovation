@@ -1,6 +1,9 @@
 # 中国传媒大学语料收集
 ## 网址：http://www.cuc.edu.cn/bgjz/list.htm
-## CUC.xlsx：
-## CUC_Text.zip：
+## CUC.xlsx：至2020/2/24日，上述网址中所有讲座类通知的链接，共228条
+![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/CUC/img/CUC_xlsx.jpg?raw=true)
+## CUC_Text.zip：CUC.xlsx中所有链接对应的文本
+![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/CUC/img/CUC_text.jpg?raw=true)
 ## CUC_Text.zip内文本格式样例（txt）
-## CUC_getContent.PY：
+![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/CUC/img/example.jpg?raw=true)
+## CUC_getContent.PY：代码
