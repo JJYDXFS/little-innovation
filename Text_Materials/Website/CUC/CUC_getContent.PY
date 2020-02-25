@@ -68,8 +68,7 @@ if __name__=="__main__":
 
     seedURL="http://www.cuc.edu.cn/bgjz/list{index}.htm"
     url_list=getURL(seedURL)
-    for i in url_list:
-        print(i[0])
+
     try:
         for i in url_list:
             writeText(i[0],getText(i[1])) 
