@@ -4,4 +4,6 @@
 ![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/SHU/img/xlsx.jpg?raw=true)
 ## SHU_Text.zip：SHU.xlsx中所有链接对应的文本
 ![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/SHU/img/txt.jpg?raw=true)
+### txt格式样例
+![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/SHU/img/example.jpg?raw=true)
 ## SHU_getContent.PY：代码
