@@ -45,7 +45,7 @@ def getText(url):
 
 def getURL(seedURL):
     '''
-    由其实页面获取所有内链
+    由起始页面获取所有内链
     '''
     global postPath
     global char_set
