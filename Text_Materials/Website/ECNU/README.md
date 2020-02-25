@@ -7,5 +7,7 @@ eg: 2019-12-11日发布的一条预告：[讲座预告 | 商艳青：数据和AI
 ![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/ECNU/img/%E9%94%99%E8%AF%AF%E9%A1%B5%E9%9D%A2.jpg?raw=true)
 ## ECNU_Text.zip：ECNU.xlsx中有效链接对应的文本
 ![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/ECNU/img/%E5%B0%B1%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%86.jpg?raw=true)
+## txt格式样例
+![Image text](https://github.com/JJYDXFS/little-innovation/blob/master/Text_Materials/Website/ECNU/img/example.jpg?raw=true)
 ## ECNU_getContent.PY：代码
 *说明：该批语料均属新闻传播类，网站问题使得大部分内容失效*
